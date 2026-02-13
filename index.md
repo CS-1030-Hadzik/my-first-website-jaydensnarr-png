@@ -3,7 +3,7 @@ layout: default
 title: "My Home Page"
 ---
 
-This is my website
+Jayden's Website
 
 [Link to another page](./another-page.html).
 
