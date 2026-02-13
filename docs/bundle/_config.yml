@@ -1,7 +1,10 @@
 title: Jayden's Website
 email: Jaydensnarr@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  SnowBidPro is my first websit SAAS that helps snow contractors collect customers, automates communication based on snow forecasts, and automates customer onboarding. 
+  SnowBidPro is my first SAAS that helps snow contractors by automating the onboarding process of new customers and automates communication via SMS based on snow forecasts with AI. 
+  The system was designed to support solor operators who don't want full complex CRM systems but an easy to use alternative.
+  The idea was to automate and systemize this process to help contractors or solor operators focus on what they do best. 
+  Allowing AI to handle customer relations.
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
