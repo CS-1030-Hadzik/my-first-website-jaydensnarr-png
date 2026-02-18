@@ -1,13 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: Home
----
-
----
 layout: default
-title: "My Home Page"
+title: "Jayden's Page"
+permalink: /about/
 ---
 
 Jayden's Website
