@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The idea was to automate and systemize this process to help contractors or solor operators focus on what they do best. 
   Allowing AI to handle customer relations.
 logo: "/assets/images/logo_Jayden.jpeg"
-baseurl: "my-first-website-jaydensnarr" # the subpath of your site, e.g. /blog
+baseurl: "my-first-website-jaydensnarr-png" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
