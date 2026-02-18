@@ -12,7 +12,7 @@ title: "My Home Page"
 
 Jayden's Website
 
-[Link to another page](https://www.facebook.com/jayden.snarr/).
+[Link to another page](./about).
 
 The link above will redirect you to my facebook account.
 
