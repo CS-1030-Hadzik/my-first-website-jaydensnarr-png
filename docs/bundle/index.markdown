@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Jayden's Page"
-permalink: /about/
 ---
 
 Jayden's Website
