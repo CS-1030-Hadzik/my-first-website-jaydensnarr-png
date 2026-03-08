@@ -6,6 +6,7 @@ title: "Jayden's Page"
 Jayden's Website
 
 [About](./about).
+
 [Projects](./projects).
 
 # Introduction
