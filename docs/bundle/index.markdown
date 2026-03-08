@@ -5,9 +5,9 @@ title: "Jayden's Page"
 
 Jayden's Website
 
-[About](/about/)
+[About]({{ '/about/' | relative_url }})
 
-[Projects](/projects/)
+[Projects]({{ '/projects/' | relative_url }})
 
 # Introduction
 

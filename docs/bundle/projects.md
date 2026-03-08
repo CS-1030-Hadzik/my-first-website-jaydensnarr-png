@@ -14,7 +14,7 @@ permalink: /projects/
 ## SnowBidPro
 
 <video class="project-video" autoplay muted loop playsinline>
-<source src="/assets/images/SnowBidPro.mp4" type="video/mp4">
+  <source src="{{ '/assets/images/SnowBidPro.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 SnowbidPro was designed to help solo operators
