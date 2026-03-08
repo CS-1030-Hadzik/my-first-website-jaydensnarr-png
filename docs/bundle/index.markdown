@@ -5,10 +5,8 @@ title: "Jayden's Page"
 
 Jayden's Website
 
-[Link to another page](./about).
-[Link to another page](./projects).
-
-The link above will redirect you to my facebook account.
+[About](./about).
+[Projects](./projects).
 
 # Introduction
 
