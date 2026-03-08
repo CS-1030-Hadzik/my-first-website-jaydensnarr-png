@@ -23,12 +23,12 @@
         <!-- I wanted to add a video to my project, So I used ChatGPT to help me. I learned that syntax basically tells Jekyll or the reciever that translates the code into instructions to find if the site logo exists. if it does than it finds it and shows it. I end in end if to end its function. -->
 
         {% if page.logo_video %}
-          <video autoplay muted loop playsinline class="site-logo">
-            <source src="{{ site.logo | relative_url }}" type="video/mp4">
-          </video>
-        {% elseif site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
+  <video autoplay muted loop playsinline class="site-logo">
+    <source src="{{ page.logo_video | relative_url }}" type="video/mp4">
+  </video>
+{% elsif site.logo %}
+  <img src="{{ site.logo | relative_url }}" alt="Logo" />
+{% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
